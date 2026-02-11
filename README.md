@@ -187,7 +187,8 @@ commit and push using Databricks Repos
 🏁 Summary
 
 This project demonstrates a production-oriented data engineering solution built on the Databricks Lakehouse platform.
-It combines incremental ingestion, CDC-driven upserts, reusable PySpark transformations, scalable multi-entity processing, and dbt-based analytical modeling with SCD tracking, all managed through GitHub for version control.
+It combines incremental ingestion, CDC-driven upserts, reusable PySpark transformations, scalable multi-entity processing,
+and dbt-based analytical modeling with SCD tracking, all managed through GitHub for version control.
 
 
 
